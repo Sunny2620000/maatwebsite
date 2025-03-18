@@ -1,4 +1,4 @@
- Step 1: Install maatwebsite/excel Package
+ Step 1: Install maatwebsite/excel Package or composer require maatwebsite/excel:^3.1.47(in this project i have use this command)
     composer require maatwebsite/excel
 If you encounter any issues, follow the installation guide to resolve missing PHP extensions like ext-gd or ext-zip.(php.ini)
 
